@@ -1,4 +1,4 @@
-# CPC_CVPE
+# CPC-CVPE
 here's the framework of paper named "Let's Look Down from the Air: Matching of Colored Point Cloud  and Satellite Image for Cross-View Pose Estimation"
 ![alt text](./Framework.png)
 the ration modual is as follow
